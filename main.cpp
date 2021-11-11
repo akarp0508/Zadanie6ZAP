@@ -24,7 +24,7 @@ int main()
     //pętla powtarza się n razy
     for(int i = 0; i<n;i++){
 
-        // zczytujemy znak z klawiatury
+        // wczytujemy znak z klawiatury
         char znak;
         cout << "Podaj znak" << endl;
         cin >> znak;
